@@ -14,5 +14,18 @@
         height='176' width='288' />
       </media:group>
     </item>
+	<item>
+      <media:group>
+        <media:content url='https://raw.githubusercontent.com/askxionghu/RSS/master/Process.jpg'
+        height='547' width='900' type='image/jpeg'
+        medium='image' />
+        <media:thumbnail url='https://raw.githubusercontent.com/askxionghu/RSS/master/s72/Process.jpg'
+        height='44' width='72' />
+        <media:thumbnail url='https://raw.githubusercontent.com/askxionghu/RSS/master/s144/Process.jpg'
+        height='88' width='144' />
+        <media:thumbnail url='https://raw.githubusercontent.com/askxionghu/RSS/master/s288/Process.jpg'
+        height='176' width='288' />
+      </media:group>
+    </item>
   </channel>
 </rss>
