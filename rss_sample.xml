@@ -3,14 +3,14 @@
   <channel>
     <item>
       <media:group>
-        <media:content url='http://lh5.ggpht.com/-vxO4nCqXadI/UhYeWzx7BMI/AAAAAAAAMao/cV_gqRsMO8U/s1600/Ken13sam1DX_6059.jpg'
+        <media:content url='https://raw.githubusercontent.com/askxionghu/RSS/master/Ken13sam1DX_6059.jpg'
         height='547' width='900' type='image/jpeg'
         medium='image' />
-        <media:thumbnail url='http://lh5.ggpht.com/-vxO4nCqXadI/UhYeWzx7BMI/AAAAAAAAMao/cV_gqRsMO8U/s72/Ken13sam1DX_6059.jpg'
+        <media:thumbnail url='https://raw.githubusercontent.com/askxionghu/RSS/master/s72/Ken13sam1DX_6059.jpg'
         height='44' width='72' />
-        <media:thumbnail url='http://lh5.ggpht.com/-vxO4nCqXadI/UhYeWzx7BMI/AAAAAAAAMao/cV_gqRsMO8U/s144/Ken13sam1DX_6059.jpg'
+        <media:thumbnail url='https://raw.githubusercontent.com/askxionghu/RSS/master/s144/Ken13sam1DX_6059.jpg'
         height='88' width='144' />
-        <media:thumbnail url='http://lh5.ggpht.com/-vxO4nCqXadI/UhYeWzx7BMI/AAAAAAAAMao/cV_gqRsMO8U/s288/Ken13sam1DX_6059.jpg'
+        <media:thumbnail url='https://raw.githubusercontent.com/askxionghu/RSS/master/s288/Ken13sam1DX_6059.jpg'
         height='176' width='288' />
       </media:group>
     </item>
